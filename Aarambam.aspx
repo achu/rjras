@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            begins........
             <a href="LoadTableAjax.aspx">jQuery Ajax Table Generate</a>
         </div>
     </form>
