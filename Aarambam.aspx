@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="Aarambam.aspx.vb" Inherits="Aarambam" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Aarambam.aspx.cs" Inherits="Aarambam" %>
 
 <!DOCTYPE html>
 
@@ -8,9 +8,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-            begins........
-        </div>
+    <div>
+    
+    </div>
     </form>
 </body>
 </html>
